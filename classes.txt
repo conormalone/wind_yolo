@@ -1,0 +1,6 @@
+0 blade
+1 corrosion
+2 crack
+3 hole
+4 spalling
+5 ff

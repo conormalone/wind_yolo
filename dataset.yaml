@@ -1,0 +1,12 @@
+path: C:\Users\conny\OneDrive\Documents\Projects\wind_yolo
+train: images/train  # Path to training images
+val: images/val      # Path to validation images
+nc: 6
+names: ["blade", "corrosion", "crack", "hole", "spalling", "ff"]
+#0: blade
+#1: corrosion
+#2: crack
+#3: hole
+#4: spalling
+#5: ff
+
